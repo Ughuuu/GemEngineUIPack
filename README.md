@@ -7,7 +7,7 @@ Use it in Gem Engine.
 
 Take it from here:
 
-[![](https://jitpack.io/v/Ughuuu/GemEngineBasePack.svg)](https://jitpack.io/#Ughuuu/GemEngineBasePack)
+[![](https://jitpack.io/v/Ughuuu/GemEngineUIPack.svg)](https://jitpack.io/#Ughuuu/GemEngineUIPack)
 
 **Features**
 - [x] UI Container
