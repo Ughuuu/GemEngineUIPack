@@ -8,7 +8,7 @@ repositories {
 ext {
 	gemEngineVersion = 'master-SNAPSHOT'
 	gemEngineBasePackVersion = 'master-SNAPSHOT'
-	gemEngine2dPackVersion = 'master-SNAPSHOT'
+	gemEngine2dPackVersion = 'db5f1026ef'
 	lombokVersion = "1.16.16"
 }
 
